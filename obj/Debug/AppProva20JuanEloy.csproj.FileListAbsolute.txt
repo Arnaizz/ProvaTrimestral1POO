@@ -1,0 +1,13 @@
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\bin\Debug\AppProva20JuanEloy.exe.config
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\bin\Debug\AppProva20JuanEloy.exe
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\bin\Debug\AppProva20JuanEloy.pdb
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.csproj.AssemblyReference.cache
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.csproj.SuggestedBindingRedirects.cache
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.frm_cadastro.resources
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.Properties.Resources.resources
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.csproj.GenerateResource.cache
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.csproj.CoreCompileInputs.cache
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.exe
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.pdb
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.questao03.resources
+H:\2022-3C1_20_JuanEloy\AppProva20JuanEloy\AppProva20JuanEloy\obj\Debug\AppProva20JuanEloy.questao04.resources
